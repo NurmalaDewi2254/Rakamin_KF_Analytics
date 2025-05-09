@@ -1,0 +1,13 @@
+Rakamin_KF_Analytics/
+├── README.md
+├── sql/
+│   ├── analytical_table.sql
+│   ├── transaction_summary.sql
+│   └── inventory_join.sql
+├── docs/
+│   └── data_dictionary.md
+├── data/
+│   └── sample_data.csv  (jika ada data kecil untuk tes)
+├── notebooks/
+│   └── exploratory_analysis.ipynb
+└── .gitignore
